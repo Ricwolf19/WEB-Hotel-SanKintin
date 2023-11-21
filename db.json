@@ -1,0 +1,14 @@
+{
+  "reservations": [],
+  "orders": [],
+  "employees": [
+    {
+      "name": "Ricardo Tapia",
+      "position": "waiter",
+      "address": "Mezcaleros 4313",
+      "phone": "614 396 5716",
+      "employeeId": "",
+      "id": 2
+    }
+  ]
+}
