@@ -1,8 +1,8 @@
 
 
     :root {
-        --primary-bg-color: #a4133c;
-        --secondary-bg-color: #ffc300;
+        --primary-bg-color: #1357a4;
+        --secondary-bg-color: #a6ff00;
         --secondary-heavy-bg-color: #dd8f00;
         --third-bg-color: #457b9d;
     
@@ -43,7 +43,7 @@
 
     #login form {
         width: 20%;
-        background-color: #540b0e;
+        background-color: #0b5448;
         padding: 15px;
         border-radius: 10px ;
         -webkit-border-radius: 10px;
@@ -59,25 +59,21 @@
     #login .btn {
         text-transform: uppercase;
         font-weight: bold;
-        background-color: #f7b538;
-        border: 1px double #fca401;
-        color: rgb(255, 255, 255);
+        background-color: #38f7de;
+        border: 1px double #fc01c6;
+        color: rgb(0, 0, 0);
     }
 
     #login .btn:hover {
-        background-color: #ffaa0d;
-        border: 1px double #da8d00;
+        background-color: #ffffff;
+        border: 1px double #ffffff;
+        color: #000;
     }
 
     #content {
         width: 100%;
         position: absolute;
         top: 74px;
-    }
-
-    #content #hero {
-        height: 10vh;
-        background-color: #415a77;
     }
     
     #hero h2 {
@@ -86,28 +82,13 @@
         text-transform: uppercase;
     }
 
-
-
     #tablets {
         width: 75%;
     }
 
-    .box-style {
-        width: 100%;
-        background-color: #fff;
-        padding: 10px;
-        -webkit-box-shadow: 0px 0px 1px 0px #000000;
-        box-shadow: 0px 0px 1px 0px #000000;
-        border-radius: 5px;
-        -webkit-border-radius: 5px;
-        -moz-border-radius: 5px;
-        -ms-border-radius: 5px;
-        -o-border-radius: 5px;
-    }
-
     .box-style .table-title {
-        border-bottom: 2px solid #a4133c;
-        display: inline-block;
+        border-bottom: 2px solid #a4133c00;
+        text-align: center;
     }
 
     .box-style table {
@@ -126,7 +107,7 @@
 
     #add-employee-container #addEmployee svg {
         width: 100%;
-        color: #a4133c;
+        color: #000000;
     }
 
     #add-employee-container #addEmployee span {
@@ -138,13 +119,13 @@
     #employeeForm .btn {
         color: #fff;
         font-weight: bold;
-        background-color: #a4133c;
+        background-color: #13a480;
     }
 
     #employeeForm .btn:hover {
-        color: #fff;
+        color: #ffffff;
         font-weight: bold;
-        background-color: #9d1115;
+        background-color: #11989d;
     }
     
     /* Movil sytles */

@@ -17,15 +17,15 @@ nav {
 }
 
 nav .navbar-nav .nav-item:hover:nth-child(1) {
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #000000;
 }
 
 nav .navbar-nav .nav-item:hover:nth-child(2) {
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #000000;
 }
 
 nav .navbar-nav .nav-item:nth-child(3) {
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #000000;
 }
 
 nav .navbar-toggler {
@@ -57,15 +57,15 @@ nav .btn:hover {
 }
 
 #restaurant-form-container {
-  background-color: #003566;
+  background-image: url(/Img-reservations/img-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30vh;
+  height: 96vh;
 }
 
 #restaurant-form-container #restaurant-form-text {
   width: 25%;
-  background-color: #fff;
+  background-color: #000000;
   padding: 15px;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -85,7 +85,7 @@ nav .btn:hover {
 
 #restaurant-form-container #restaurant-form {
   width: 30%;
-  background-color: #fff;
+  background-color: #d38f8f;
   padding: 15px;
   border-radius: 10px;
   -webkit-border-radius: 10px;

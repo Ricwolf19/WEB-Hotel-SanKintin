@@ -194,7 +194,7 @@ document.querySelector('#passForm').addEventListener('submit', (e) => {
 
   const pass = data.get('password');
 
-  if (pass === '1234') {
+  if (pass === 'admin') {
     passForm.classList.add('hidden');
     content.classList.remove('hidden');
     login.classList.add('d-none');
@@ -225,3 +225,4 @@ document.querySelector('#employeeForm').addEventListener('submit', (e) => {
 getEmployees();
 getReservations();
 getOrders();
+ 

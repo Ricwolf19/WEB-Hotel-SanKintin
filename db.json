@@ -1,14 +1,64 @@
 {
-  "reservations": [],
-  "orders": [],
+  "reservations": [
+    {
+      "name": "adasds",
+      "email": "rhtc19@gmail.com",
+      "people": "5",
+      "entry": "2023-11-10T16:11",
+      "exit": "2023-11-21T16:11",
+      "room": "deluxe",
+      "total": 5500,
+      "id": 1
+    },
+    {
+      "name": "adasds",
+      "email": "rhtc19@gmail.com",
+      "people": "5",
+      "entry": "2023-11-10T16:11",
+      "exit": "2023-11-21T16:11",
+      "room": "deluxe",
+      "total": 5500,
+      "id": 2
+    },
+    {
+      "name": "adasd",
+      "email": "rhtc19@gmail.com",
+      "people": "3",
+      "entry": "2023-11-08T16:36",
+      "exit": "2023-11-17T16:36",
+      "room": "deluxe",
+      "total": 3600,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "name": "",
+      "mainCourse": "chicken",
+      "side": "salad",
+      "drink": "beer",
+      "total": 24,
+      "date": "2023-11-21T21:59:23.908Z",
+      "id": 1
+    },
+    {
+      "name": "aaaaaaaaaaaaa",
+      "mainCourse": "fish",
+      "side": "rice",
+      "drink": "water",
+      "total": 17,
+      "date": "2023-11-21T22:37:21.676Z",
+      "id": 2
+    }
+  ],
   "employees": [
     {
       "name": "Ricardo Tapia",
       "position": "waiter",
-      "address": "Mezcaleros 4313",
-      "phone": "614 396 5716",
+      "address": "sdfsdfsdfsdf",
+      "phone": "67678678",
       "employeeId": "",
-      "id": 2
+      "id": 1
     }
   ]
 }
